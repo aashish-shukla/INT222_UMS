@@ -23,13 +23,14 @@ A simple user management system built with Node.js, Express, MongoDB, and Axios.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/user-management-system.git
+   git clone https://github.com/aashish-shukla/INT222_UMS
    ```
 
 2. **Install dependencies:**
 
    ```bash
-   cd user-management-system
+   cd INT222_UMS
+   npm init
    npm install
    ```
 
